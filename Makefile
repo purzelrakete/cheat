@@ -1,0 +1,2 @@
+build:
+	tectonic *.tex
